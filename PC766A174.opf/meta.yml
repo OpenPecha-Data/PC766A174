@@ -1,0 +1,26 @@
+id: PC766A174
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13282
+  instance_id: http://purl.bdrc.io/resource/IE3JT13282
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: None
+  title:
+    bo:
+    - སྡོམ་པ་གསུམ་གྱི་རྣམ་གཞག་མདོར་བསྡུས་པ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P821
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    0fa5b5c429d147c2bd222f7536c6f94b:
+      title: ༄༅།་།སྡོམ་པ་གསུམ་གྱི་རྣམ་གཞག་མདོར་བསྡུས་པ་བཞུགས།ཀརྨ་པ་བདུན་པའི་ཞབས་ཀྱིས་མཛད།
+      volume_number: 1
+      base_file: UT3JT13282_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2D67262F85C8BFBE
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-22T11:19:20.664236'
+last_modified_at: '2021-12-22T11:19:20.664245'
